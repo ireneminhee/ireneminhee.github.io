@@ -12,8 +12,6 @@ Feel free to reach out at ireneminheelee@gmail.com
 
 ## CV / Resume
 
-[📄 Download CV](../assets/paper/CV_IreneMinheeLee.pdf){: .btn .btn-primary download }
-
 <object data="/assets/paper/CV_IreneMinheeLee.pdf" type="application/pdf" width="100%" height="800px">
   <p>Unable to display PDF. <a href="/assets/paper/CV_IreneMinheeLee.pdf">Click here to download instead.</a></p>
 </object>
