@@ -3,7 +3,6 @@
 icon: fas fa-info-circle
 order: 4
 ---
-# About Me
 
 Hi, I'm Irene Minhee Lee.  
 My research interests include AI, HCI, and Robotics.  
