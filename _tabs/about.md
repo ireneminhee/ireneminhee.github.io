@@ -14,7 +14,7 @@ Feel free to reach out at ireneminheelee@gmail.com
 
 [📄 Download CV](../assets/paper/CV_IreneMinheeLee.pdf){: .btn .btn-primary download }
 
-<object data="/assets/paper/your-cv.pdf" type="application/pdf" width="100%" height="800px">
-  <p>Unable to display PDF. <a href="/assets/paper/your-cv.pdf">Click here to download instead.</a></p>
+<object data="/assets/paper/CV_IreneMinheeLee.pdf" type="application/pdf" width="100%" height="800px">
+  <p>Unable to display PDF. <a href="/assets/paper/CV_IreneMinheeLee.pdf">Click here to download instead.</a></p>
 </object>
 
