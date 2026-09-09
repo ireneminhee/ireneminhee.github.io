@@ -7,7 +7,7 @@ order: 4
 Hi, I'm Irene Minhee Lee.  
 My research interests include AI, HCI, and Robotics.  
 This blog is just a place where I dump my thoughts, ideas, and random findings.  
-Feel free to reach out at ireneminheelee@gmail.com  
+Feel free to reach out at imhlee@unc.edu
 
 ## CV / Resume
 
